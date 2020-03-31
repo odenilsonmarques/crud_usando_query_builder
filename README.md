@@ -1,3 +1,15 @@
+- Desenvolvimento de um crud utilizando o framework laravel. 
+- Este projeto teve como propósito colocar em prática os conhecimento adquiridos junto a essa ferramente de desenvolvimento.
+- Também foi utilizado o template AdminLte para deixar a layout mas agradável
+- A ideia basica é cadastar, alterar, listar e remover determinada tarefa
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
